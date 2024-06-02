@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "rhojas-5d25f"
+  },
+  "targets": {
+    "rhojas-5d25f": {
+      "hosting": {
+        "rhojas": [
+          "rhojas"
+        ],
+        "derojas": [
+          "derojas"
+        ]
+      }
+    }
+  },
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
